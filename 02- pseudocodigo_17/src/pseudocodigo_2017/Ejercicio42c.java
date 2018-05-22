@@ -2,7 +2,7 @@ package pseudocodigo_2017;
 
 import java.util.Scanner;
 
-public class Ejercicico42 {
+public class Ejercicio42c {
 	public static void main(String[] args) {
 		Scanner in =new Scanner(System.in);
 		int n1,n2;
